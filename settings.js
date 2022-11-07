@@ -52,7 +52,7 @@ global.ownertag = '+94717018569' //your tag number
 global.botname = 'QUEEN ROSI `MDᥫ᭡' //ur bot name
 global.packname = "Bot queen md" // sticker packname
 global.author = "QUEEN ROSI `MDᥫ᭡" // sticker author
-global.dragonemoji = '🌹' // Menu emoji
+global.dragonemoji = '🌹.' // Menu emoji
 global.footer = '[ ◉ ʀᴇᴅ-ᴅʀᴀɢᴏɴ-ᴍᴅ ]' //
 
 //database
